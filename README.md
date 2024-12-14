@@ -1,5 +1,6 @@
 # unawesome-gdpr
-List of well-known websites that are not willing to comply to GDPR
+List of well-known websites that are not willingly GDPR compliant.
 
 - https://stackexchange.com
 - https://news.ycombinator.com
+- https://google.com
