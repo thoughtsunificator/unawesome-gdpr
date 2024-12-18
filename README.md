@@ -7,3 +7,4 @@ These websites either have a strong stance against data sovereigny by making it 
 - https://news.ycombinator.com
 - https://pinterest.com
 - https://stackexchange.com
+- https://discourse.org
