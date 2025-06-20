@@ -9,3 +9,6 @@ These websites either have a strong stance against data sovereigny by making it 
 - https://stackexchange.com
 - https://discourse.org
 - https://swile.co
+- https://laposte.fr
+- https://microsoft.com
+- https://reddit.com
